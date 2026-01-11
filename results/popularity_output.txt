@@ -1,0 +1,9 @@
+Running Popularity Baseline...
+                                                                                
+Evaluating Popularity Model on 53575 users (after filtering)
+                                                                                
+Popularity MAP: 0.0895
+                                                                                
+Popularity NDCG@100: 0.2491
+                                                                                
+Popularity Precision@100: 0.0100

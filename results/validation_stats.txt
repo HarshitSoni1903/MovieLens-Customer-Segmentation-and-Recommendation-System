@@ -1,0 +1,2 @@
+Average correlation for top 100 similar pairs: 0.1509
+Average correlation for 100 random pairs: 0.0997

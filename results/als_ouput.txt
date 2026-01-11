@@ -1,0 +1,59 @@
+Running ALS
+
+Training ALS with rank=10, regParam=0.01                                                                                
+Evaluating on validation set
+                                        
+MAP: 0.0155
+
+Training ALS with rank=10, regParam=0.05
+Evaluating on validation set
+                                                                                
+MAP: 0.0159
+
+Training ALS with rank=10, regParam=0.1
+Evaluating on validation set
+                                                                                
+MAP: 0.0166
+
+Training ALS with rank=20, regParam=0.01
+Evaluating on validation set
+                                                                                
+MAP: 0.0101
+
+Training ALS with rank=20, regParam=0.05
+Evaluating on validation set
+                                                                                
+MAP: 0.0177
+
+Training ALS with rank=20, regParam=0.1
+Evaluating on validation set
+                                                                                
+MAP: 0.0184
+
+Training ALS with rank=50, regParam=0.01
+Evaluating on validation set
+                                                                                
+MAP: 0.0114
+
+Training ALS with rank=50, regParam=0.05
+Evaluating on validation set
+                                                                                
+MAP: 0.0159
+
+Training ALS with rank=50, regParam=0.1
+Evaluating on validation set                                                                                
+MAP: 0.0193
+
+ Best ALS: rank=50, regParam=0.1, MAP=0.0193
+
+Predictions and labels count: 307284
+                                                                                
+ALS (Tuned) MAP: 0.016684646244908324
+                                                                                
+ALS (Tuned) NDCG@100: 0.05953335548901339
+                                                                                
+ALS (Tuned) Precision@100: 0.0026724137931034473
+                                                                                
+ALS (Tuned) Recall@100: 0.2672413793103449
+                                                                                
+ALS (Tuned) Hit Rate@100: 0.267
